@@ -1,6 +1,10 @@
 # AquaNexus
 
-The Smart India Hackathon Prototype to store fish catch-data in a flexible database. 
+# Geo-Referenced Fish Catch Prediction and Visualization System (React.js, MS SQL, TensoreFlow, Keras)
+ • Developed an Azure-hosted platform using React.js and Express.js for managing fish catch data.
+ • Utilized MS SQL Server for efficient data normalization and multi-source consolidation.
+ • Implemented LSTM for catch forecasting, Random Forest for species prediction, and anomaly detection.
+ • Designed interactive visualizations (maps, graphs) with export options for researchers.
 
 ## Acknowledgements
 React + Vite <br>
