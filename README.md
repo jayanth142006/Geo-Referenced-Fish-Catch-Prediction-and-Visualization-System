@@ -1,4 +1,8 @@
 # AquaNexus
+![img alt](https://github.com/jayanth142006/Geo-Referenced-Fish-Catch-Prediction-and-Visualization-System/blob/31c69a438c98ddc4b698338bdccc555052017e11/WhatsApp%20Image%202025-06-17%20at%2011.28.39%20PM%20(1).jpeg)
+![img alt](https://github.com/jayanth142006/Geo-Referenced-Fish-Catch-Prediction-and-Visualization-System/blob/31c69a438c98ddc4b698338bdccc555052017e11/WhatsApp%20Image%202025-06-17%20at%2011.27.53%20PM.jpeg)
+![img alt](https://github.com/jayanth142006/Geo-Referenced-Fish-Catch-Prediction-and-Visualization-System/blob/31c69a438c98ddc4b698338bdccc555052017e11/Screenshot%202025-06-17%20233605.png)
+![img alt](https://github.com/jayanth142006/Geo-Referenced-Fish-Catch-Prediction-and-Visualization-System/blob/31c69a438c98ddc4b698338bdccc555052017e11/WhatsApp%20Image%202025-06-17%20at%2011.28.39%20PM.jpeg)
 
 # Geo-Referenced Fish Catch Prediction and Visualization System (React.js, MS SQL, TensoreFlow, Keras)
  • Developed an Azure-hosted platform using React.js and Express.js for managing fish catch data.
